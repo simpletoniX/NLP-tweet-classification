@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-df = pd.read_csv("/Users/tonix/PycharmProjects/pythonProject/Cyberbulling/cyberbullying_tweets.csv")
+df = pd.read_csv("/Users/tonix/PycharmProjects/pythonProject/Cyberbulling/csv/cyberbullying_tweets.csv")
 
 # >>> Feature engineering
 
